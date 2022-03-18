@@ -1,0 +1,85 @@
+h1{
+    color: white;
+    
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+}
+.flex-container .verytop {
+    background: #1f2937;   
+    height: 50px;
+    flex: 1;
+    display: flex;
+    padding-left: 100px;
+}
+
+.bar{
+    display: flex;
+    margin-left: auto;
+    padding-right: 100px;
+    gap: 10px;
+}
+.TopRight{
+    display: flex;
+    margin-left: auto;
+    padding-right: 100px;
+}
+
+.TopLeft{
+    display: flex;
+    
+    padding-left: 100px;
+    flex-direction: column;
+}
+
+.flex-container .stillblue{
+    display: flex;
+    background: #1f2937; 
+    height: 300px;
+    flex: 1;
+    
+}
+
+.flex-container .firstwhite{
+    display: flex;
+    flex: 1;
+    height: 300px;
+    
+    
+}
+.flex-container .grey{
+    display: flex;
+    flex: 1;
+    height: 300px;
+    background: gray;
+}
+.flex-container .secondwhite{
+    background: black;
+    flex: 1;
+    height: 300;
+    display: flex;
+}
+.flex-container .bottom{
+    background: #1f2937;
+    flex: 1;
+    display: flex;
+}
+.flex-container .TopRight div{
+    color: aqua;
+    height: 100px;
+    flex: 1;
+    display: flex;
+}
+p{
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: italic;
+}
+
+h6{
+
+    font-size: 24;
+    color: #F9FAF8;
+    
+}
